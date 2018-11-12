@@ -47,6 +47,11 @@
 | 握   | 紧 |jǐn       |tense, tight, taut; firm, secure        |
 | 剪,打 | 断 |duàn |sever, cut off; interrupt     |
 | 剪,做,改 | 短 | duǎn | short; brief; deficient, lacking |
-| 卖, 去, 脱, 吃, 丢, 改, 忘, 扔, 花, 跑 | 掉 | diào | turn, move; shake, wag; drop down|
+| 卖, 去, 脱, 吃, 丢, 改, 忘, 扔, 花, 跑 | 掉 | diào | turn, move; shake, wag; drop down|
 | 打, 饿, 烫, 累, 老 | 死 | sǐ | die; dead; death |
- 
+| 弄, 浇, 淋 | 湿 | shī | wet, moist, humid, damp; illness |
+| 烤, 烧 | 焦 | jiāo | burned, scorched; anxious, vexed |
+| 打, 剪, <a href="https://hanzi.altusdemo.cloud/?char=撕" target="_blank">撕</a>, 弄 | 破| pò | break, ruin, destroy; rout |
+| 打, <a href="https://hanzi.altusdemo.cloud/?char=撕" target="_blank">撕</a>, <a href="https://hanzi.altusdemo.cloud/?char=碰" target="_blank">碰</a>, 踢 | 碎 | suì | break, smash; broken, busted |
+
+
