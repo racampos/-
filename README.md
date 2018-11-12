@@ -51,7 +51,9 @@
 | 打, 饿, 烫, 累, 老 | 死 | sǐ | die; dead; death |
 | 弄, 浇, 淋 | 湿 | shī | wet, moist, humid, damp; illness |
 | 烤, 烧 | 焦 | jiāo | burned, scorched; anxious, vexed |
-| 打, 剪, <a href="https://hanzi.altusdemo.cloud/?char=撕" target="_blank">撕</a>, 弄 | 破| pò | break, ruin, destroy; rout |
-| 打, <a href="https://hanzi.altusdemo.cloud/?char=撕" target="_blank">撕</a>, <a href="https://hanzi.altusdemo.cloud/?char=碰" target="_blank">碰</a>, 踢 | 碎 | suì | break, smash; broken, busted |
+| 打, 剪, [撕](https://hanzi.altusdemo.cloud/?char=撕), 弄 | 破| pò | break, ruin, destroy; rout|
+| 打, [撕](https://hanzi.altusdemo.cloud/?char=撕), [碰](https://hanzi.altusdemo.cloud/?char=碰), 踢 | 碎 | suì | break, smash; broken, busted |
+| [晒](https://hanzi.altusdemo.cloud/?char=晒), [烧](https://hanzi.altusdemo.cloud/?char=烧) | 热 | rè | hot; heat; fever; restless; zeal |
+| 
 
 
