@@ -40,3 +40,13 @@
 | 发   |fā      |to send out      |给，到，在          |
 | 退   |tuì      |to retreat, to move back      |到，给          |
 | 载   |zài      |to carry (in a vehicle)      |到          |
+
+
+| 动词 | 结果补语 | 拼音 | 意思 | 
+|------|------|------|----------|
+| 握   | 紧 |jǐn       |tense, tight, taut; firm, secure        |
+| 剪,打 | 断 |duàn |sever, cut off; interrupt     |
+| 剪,做,改 | 短 | duǎn | short; brief; deficient, lacking |
+| 卖, 去, 脱, 吃, 丢, 改, 忘, 扔, 花, 跑 | 掉 | diào | turn, move; shake, wag; drop down|
+| 打, 饿, 烫, 累, 老 | 死 | sǐ | die; dead; death |
+ 
